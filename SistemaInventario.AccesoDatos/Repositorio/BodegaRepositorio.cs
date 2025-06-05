@@ -16,7 +16,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         {
             _db = db;
         }
-        public void Actualizr(Bodega bodega)
+        public void Actualizar(Bodega bodega)
         {
             var bodegaDb = _db.Bodegas.FirstOrDefault(b => b.Id == bodega.Id);
             if (bodegaDb != null)

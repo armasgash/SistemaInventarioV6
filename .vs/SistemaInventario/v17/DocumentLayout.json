@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\views\\shared\\_notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\views\\shared\\_notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\irepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\irepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\migrations\\20250507040614_agregarbodegamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\migrations\\20250507040614_agregarbodegamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B66DE8E-69A6-479A-8574-FEBB4AD55109}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B66DE8E-69A6-479A-8574-FEBB4AD55109}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\areas\\admin\\views\\bodega\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\admin\\views\\bodega\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,168 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnidadTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:09:52.31Z",
+              "DocumentIndex": 2,
+              "Title": "_Notificaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Notificaciones.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Views\\Shared\\_Notificaciones.cshtml",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Notificaciones.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Views\\Shared\\_Notificaciones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T22:27:17.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUnidadTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:07:33.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BodegaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:01:48.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IBodegaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
               "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
               "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T11:50:50.688Z",
+              "WhenOpened": "2025-05-31T20:11:30.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\Repositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\Repositorio.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\Repositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\Repositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T22:14:16.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IRepositorio.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:34:20.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250507040614_AgregarBodegaMigracion.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250507040614_AgregarBodegaMigracion.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Migrations\\20250507040614_AgregarBodegaMigracion.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250507040614_AgregarBodegaMigracion.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Migrations\\20250507040614_AgregarBodegaMigracion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:06:14.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BodegaConfiguracion.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:01:00.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bodega.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.Modelos\\Bodega.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Bodega.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.Modelos\\Bodega.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\Bodega.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:50:03.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Program.cs",
-              "RelativeToolTip": "SistemaInventario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T14:13:16.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T14:13:03.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\appsettings.json",
-              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\appsettings.json",
-              "RelativeToolTip": "SistemaInventario\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T14:11:21.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T14:05:50.536Z"
+              "WhenOpened": "2025-05-19T02:06:13.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BodegaController.cs",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:01:35.797Z",
+              "EditorCaption": ""
             }
           ]
         }

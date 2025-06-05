@@ -26,7 +26,4 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             _db.Dispose();
         }
     }
-    {
-
-    }
 }
