@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SistemaInventario.AccesoDatos.Data;
 
@@ -11,9 +12,11 @@ using SistemaInventario.AccesoDatos.Data;
 namespace SistemaInventario.AccesoDatos.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251008023332_AgregarProductoMigracion")]
+    partial class AgregarProductoMigracion
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -313,21 +316,6 @@ namespace SistemaInventario.AccesoDatos.Migrations
                     b.Property<int>("CategoriaId")
                         .HasColumnType("int");
 
-                    b.Property<string>("CodigoAlternativo")
-                        .IsRequired()
-                        .HasMaxLength(30)
-                        .HasColumnType("nvarchar(30)");
-
-                    b.Property<string>("CodigoBarras")
-                        .IsRequired()
-                        .HasMaxLength(30)
-                        .HasColumnType("nvarchar(30)");
-
-                    b.Property<string>("CodigoInterno")
-                        .IsRequired()
-                        .HasMaxLength(30)
-                        .HasColumnType("nvarchar(30)");
-
                     b.Property<double>("Costo")
                         .HasColumnType("float");
 
@@ -338,9 +326,6 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.Property<bool>("Estado")
                         .HasColumnType("bit");
-
-                    b.Property<double>("Existencia")
-                        .HasColumnType("float");
 
                     b.Property<string>("ImagenUrl")
                         .HasColumnType("nvarchar(max)");
@@ -362,14 +347,6 @@ namespace SistemaInventario.AccesoDatos.Migrations
                         .HasColumnType("int");
 
                     b.Property<double>("Precio")
-                        .HasColumnType("float");
-
-                    b.Property<string>("UnidadMedida")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.Property<double>("UnidadxEmpaque")
                         .HasColumnType("float");
 
                     b.HasKey("Id");
