@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\usuarioaplicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\usuarioaplicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{231E54CA-1C4F-4CBA-A6AD-F57413706582}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\irepositorio\\iusuarioaplicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\irepositorio\\iusuarioaplicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96C704-CC39-4BDC-AE6C-D9DB03AD2B33}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B66DE8E-69A6-479A-8574-FEBB4AD55109}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|c:\\users\\armasgash kfir\\desktop\\sistema de inventario net 8\\sistemainventario\\sistemainventario.modelos\\usuarioaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B66DE8E-69A6-479A-8574-FEBB4AD55109}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\usuarioaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T22:21:36.151Z",
+              "Title": "UsuarioAplicacionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\UsuarioAplicacionRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\UsuarioAplicacionRepositorio.cs",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\UsuarioAplicacionRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\UsuarioAplicacionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:04:18.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Title": "IUsuarioAplicacionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUsuarioAplicacionRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUsuarioAplicacionRepositorio.cs",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUsuarioAplicacionRepositorio.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IUsuarioAplicacionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:09:19.58Z",
+              "WhenOpened": "2025-10-24T17:02:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:58:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.Modelos\\UsuarioAplicacion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\UsuarioAplicacion.cs",
+              "ToolTip": "C:\\Users\\Armasgash KFIR\\Desktop\\Sistema de Inventario NET 8\\SistemaInventario\\SistemaInventario.Modelos\\UsuarioAplicacion.cs",
+              "RelativeToolTip": "SistemaInventario.Modelos\\UsuarioAplicacion.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:33:22.8Z",
               "EditorCaption": ""
             }
           ]
