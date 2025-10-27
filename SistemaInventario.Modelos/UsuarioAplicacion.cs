@@ -27,7 +27,6 @@ namespace SistemaInventario.Modelos
         [MaxLength(30)]
         public string Telefono { get; set; }
 
-        [Required(ErrorMessage = "Requerido")]
         [MaxLength(10)]
         public string CodigoVendedor { get; set; }
 
