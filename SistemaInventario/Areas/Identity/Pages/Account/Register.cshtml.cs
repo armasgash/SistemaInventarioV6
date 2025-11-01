@@ -8,9 +8,12 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.WebUtilities;
 using SistemaInventario.Modelos;
 using SistemaInventario.Utilidades;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
+using System.Text.Encodings.Web;
 
 namespace SistemaInventario.Areas.Identity.Pages.Account
 {
@@ -182,7 +185,7 @@ namespace SistemaInventario.Areas.Identity.Pages.Account
                         await _roleManager.CreateAsync(new IdentityRole(DS.Role_Vendedor));
                     }
 
-                    await _userManager.AddToRoleAsync(user, DS.Role_Admin);
+                    //await _userManager.AddToRoleAsync(user, DS.Role_Admin);
 
                     if (user.Role == null) //EL VALOR QUE RECIBE DESDE EL PAGE
                     {
