@@ -20,6 +20,14 @@ builder.Services.AddIdentity<IdentityUser,IdentityRole>(options => options.SignI
     .AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
+//ACA ESTO SE AGREGA PARA REDIRECCIONAR AL USUARIO CCUANDO NO ESTA AUTORIZADO
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = $"/Identity/Account/Login";
+    options.LogoutPath = $"/Identity/Account/Logout";
+    options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+});
+
 //ACA SE CONFIGURA PARAMETROS DEL PASSWORD
 builder.Services.Configure<IdentityOptions>(options =>
 {
@@ -59,6 +67,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+//ACA SE AGREGA PARA LA AUTENTICACION
+app.UseAuthentication(); 
 
 app.UseAuthorization();
 

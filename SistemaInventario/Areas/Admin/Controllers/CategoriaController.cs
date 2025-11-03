@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
 using SistemaInventario.Utilidades;
@@ -7,6 +8,8 @@ namespace SistemaInventario.Areas.Admin.Controllers
 {
     // Este atributo es para indicar donde corre el controlador
     [Area("Admin")]
+    //ACA ESTE ATRIBUTO PERMITE QUE SOLO USUARIOS AUTORIZADOS PUEDAN ENTRAR
+    [Authorize(Roles = DS.Role_Admin)]
     public class CategoriaController : Controller
     {
         // GET: Categoria
